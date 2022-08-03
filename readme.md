@@ -15,3 +15,5 @@ This is Second Hand Book Sell Website where you can  Sell & Buy your Second Hand
 <img src="pic/Screenshot (577).png" class="img-fluid"><br><br>
 # Add Book Page
 <img src="pic/Screenshot (578).png" class="img-fluid"><br><br>
+<img src="pic/Screenshot (579).png" class="img-fluid"><br><br>
+<img src="pic/Screenshot (580).png" class="img-fluid"><br><br>
